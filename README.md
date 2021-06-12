@@ -4,7 +4,7 @@
 
 [**click live demo of the project**](https://dominiksiejka.github.io/BillSplitterApp)
 
-![PasswordGeneratorApp preview](./assets/billsplitter.jpg)
+![PasswordGeneratorApp preview](./assets/password.jpg)
 
 ## Table of Contents
 
