@@ -95,7 +95,7 @@ h2 {
   align-items: center;
   margin: 15px 0;
   border: 1px solid black;
-  padding: 5px;
+  padding: 10px;
   border-radius: 10px;
 }
 .setting input[type="number"]:focus {
